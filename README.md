@@ -1,16 +1,17 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil👋 💙
 
-<!--
-**edudaporc/edudaporc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Eduarda 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Tenho **15 anos**;
+- Utilizarei este espaço para guardar meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Entre em contato comigo por 📫
+
+  00001119708138sp@al.educacao.sp.gov.br
+  
+  @duckkjl_
+
+![](https://media1.tenor.com/m/Tm10dE0xrgAAAAAC/merci.gif )
+
+
